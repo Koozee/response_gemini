@@ -1,4 +1,5 @@
 {
+    "version": 2,
     "builds": [
         {
             "src": "api/flask_server_gemini_ukai.py",
